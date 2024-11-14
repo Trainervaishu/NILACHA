@@ -1,2 +1,8 @@
-# NILACHA
-Nilachal Energy is dedicated to providing smart, sustainable solutions for today’s energy challenges. In a world where energy efficiency and sustainability are more important than ever, we focus on creating innovative technologies that help people and businesses use energy more effectively and responsibly.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
